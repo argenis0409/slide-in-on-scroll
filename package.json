@@ -1,0 +1,23 @@
+{
+  "name": "slide-in-on-scroll",
+  "version": "1.0.0",
+  "description": "Playing with slide on scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/slide-in-on-scroll.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/slide-in-on-scroll/issues"
+  },
+  "homepage": "https://github.com/argenis0409/slide-in-on-scroll#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
